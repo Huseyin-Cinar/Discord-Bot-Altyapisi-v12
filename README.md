@@ -17,7 +17,7 @@ En Son Versiyon Olan Bu Botumu Sizin Hizmetinize Sunuyorum</h3>
   <a href="https://www.sites.google.com/view/the-hsyn-world/ana-sayfa" target="_blank">Web Sitem</a><br>
   </li>
   <li>
-  <a href="https://discord.gg/sJScP9NQZC" target="_blank">Discord Sunucum Özellikle Gelmeni Bekliyorum</a><br>
+  <a href="https://discord.io/ythuseyincinar" target="_blank">Discord Sunucum Özellikle Gelmeni Bekliyorum</a><br>
   </li>
   <li>
   <a href="https://www.youtube.com/channel/UCHMf4qpv2a1xO0pfm4cshMQ/featured" target="_blank">YouTube Kanalım</a><br>
